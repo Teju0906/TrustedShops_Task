@@ -18,21 +18,21 @@ additional information and also verified the provided information is relevant.
 the entire list has only two stars.
 5. Verified the sum of all star percentage values is equal or below 
 100.
+
+
 ## Getting Started
 
 ### Dependencies
+
+* Selenium packages
+* Machine: Windows 10
+
+### Installing
 
 * Install pip ; version: 23.1.2
 * Install python ; version: 3.9.0
 * Install IDE: PyCharm ; version:2020.3 
 * Install Selenium and required packages ; version: 4.9.1
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* Machine: Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
