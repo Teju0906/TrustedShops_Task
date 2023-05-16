@@ -18,7 +18,6 @@ additional information and also verified the provided information is relevant.
 the entire list has only two stars.
 5. Verified the sum of all star percentage values is equal or below 
 100.
-
 ## Getting Started
 
 ### Dependencies
